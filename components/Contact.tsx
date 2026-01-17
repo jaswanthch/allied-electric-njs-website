@@ -52,7 +52,7 @@ export default function Contact() {
             Get in Touch
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            We're here to help with all your electrical needs in Thunder Bay.
+            We&apos;re here to help with all your electrical needs in Thunder Bay.
             Contact us today!
           </p>
         </div>

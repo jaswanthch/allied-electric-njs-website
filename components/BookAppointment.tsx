@@ -54,7 +54,7 @@ export default function BookAppointment() {
               Ready to Get Started?
             </h2>
             <p className="text-lg text-gray-300 mb-4 leading-relaxed">
-              Fill out the form and we'll get back to you within 24 hours to
+              Fill out the form and we&apos;ll get back to you within 24 hours to
               confirm your appointment.
             </p>
             <p className="text-sm text-gray-400 mb-8">
